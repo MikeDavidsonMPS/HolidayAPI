@@ -1,0 +1,13 @@
+.jumbotron {
+  background-image: radial-gradient(
+      rgba(143, 85, 85, 0),
+      rgba(0, 0, 0, 0.25),
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.75),
+      rgba(0, 0, 0, 1)
+    ),
+    url(https://i.ytimg.com/vi/Y7ZtuiyAxKo/maxresdefault.jpg);
+  color: white;
+  background-size: cover;
+  height: 100vh;
+}
